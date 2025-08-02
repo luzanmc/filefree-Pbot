@@ -11,23 +11,23 @@
   "allowInbox": true,
   "commandDisabled": [],
   "eventDisabled": [],
-  "UPTIME": 0,
+  "UPTIME": 120,
   "socks5": "socks5://user:pass:ip:port",
   "socks5tl": false,
-  "ACCESSTOKEN": "EAAD6V7os0gcBOwmZAZAfSYzhg1qspaMIXlPZAbgHd0XLbuOYfdzU5cOoGLgmFSKILYNw5uaGVHs5F4LjCGLgwbZBtxAoAZCiDAVKbn4sThgeuoX8i3UZClX0RZAXg5FNZAtdP7KkhO4Ew0e4XJrHgBcciC5Ovf48C9PNDepzbodDQmkDUfZBrfdFJD44EyuvjUpAMoCEdfCS6fQZDZD",
-  "FACEBOOK_ADMIN": "https://www.facebook.com/pcoder090/",
+  "ACCESSTOKEN": "EAAGNO4a7r2wBPARE32StEF0zQifEQyvZCEBs26lUBiFBGZB8fFT91DotKMNAoa7jEf0VUgKc6qxyO7JWZBriAkH9xaTV6vM0lBjtJsK39HfCWcgGoesjBJ6tK9jLbkuuWJGI090jaVEejKOfLrUCKQNoSAtwuDTDsaSvPL058NFs4LIOOlT1zGmO0tGElelMwZDZD",
+  "FACEBOOK_ADMIN": "https://www.facebook.com/share/1BYEj8zRxR/",
   "ZALO_ADMIN": "",
-  "ADMIN_NAME": "Nguyễn Trương Thiện Phát",
-  "BOTNAME": "PCODER",
-  "PREFIX": ".",
+  "ADMIN_NAME": "Nguyễn Hoang Anh",
+  "BOTNAME": "˚ ༘ƙųðℴ_₷ƙ¡ß¡ð¡ೀ⋆｡˚",
+  "PREFIX": "/",
   "DEVELOPERS": [
-    "100047128875560"
+    "61577255902944"
   ],
   "ADMINBOT": [
-    "100047128875560"
+    "61577255902944"
   ],
   "NDH": [
-    "100047128875560"
+    "61577255902944"
   ],
   "DATABASE": {
     "sqlite": {
@@ -36,7 +36,7 @@
   },
   "DESIGN": {
     "Theme": "rainbow",
-    "Admin": "Nguyễn Trương Thiện Phát",
+    "Admin": "Nguyễn Hoang Anh",
     "Setup": {
       "Theme": "Mày có thể dùng các Theme như: Red and Hacker to enhance your terminal logs."
     }
