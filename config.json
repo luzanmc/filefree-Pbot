@@ -1,6 +1,6 @@
 {
   "EMAIL": "",
-  "PASSWORD": "",
+  "PASSWORD": "667721",
   "NOTIFICATION": true,
   "language": "vi",
   "notiGroup": false,
@@ -11,7 +11,7 @@
   "allowInbox": true,
   "commandDisabled": [],
   "eventDisabled": [],
-  "UPTIME": 120,
+  "UPTIME": 0,
   "socks5": "socks5://user:pass:ip:port",
   "socks5tl": false,
   "ACCESSTOKEN": "EAAGNO4a7r2wBPARE32StEF0zQifEQyvZCEBs26lUBiFBGZB8fFT91DotKMNAoa7jEf0VUgKc6qxyO7JWZBriAkH9xaTV6vM0lBjtJsK39HfCWcgGoesjBJ6tK9jLbkuuWJGI090jaVEejKOfLrUCKQNoSAtwuDTDsaSvPL058NFs4LIOOlT1zGmO0tGElelMwZDZD",
@@ -21,13 +21,13 @@
   "BOTNAME": "˚ ༘ƙųðℴ_₷ƙ¡ß¡ð¡ೀ⋆｡˚",
   "PREFIX": "/",
   "DEVELOPERS": [
-    "61577255902944"
+    "100055619407039"
   ],
   "ADMINBOT": [
-    "61577255902944"
+    "100055619407039"
   ],
   "NDH": [
-    "61577255902944"
+    "100055619407039"
   ],
   "DATABASE": {
     "sqlite": {
