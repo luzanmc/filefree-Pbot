@@ -1,6 +1,6 @@
 {
     "EMAIL": "",
-    "PASSWORD": "",
+    "PASSWORD": "667721",
     "NOTIFICATION": true,
     "language": "vi",
     "notiGroup": false,
@@ -21,13 +21,13 @@
     "BOTNAME": "˚ ༘ƙųðℴ_₷ƙ¡ß¡ð¡ೀ⋆｡˚",
     "PREFIX": "/",
     "DEVELOPERS": [
-        "61577255902944"
+        "100055619407039"
     ],
     "ADMINBOT": [
-        "61577255902944"
+        "100055619407039"
     ],
     "NDH": [
-        "61577255902944"
+        "100055619407039"
     ],
     "DATABASE": {
         "sqlite": {
